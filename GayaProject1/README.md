@@ -43,7 +43,7 @@ ten percent of the data into test data and the rest into training data.
 
 *(ref: normalize data)*
 
-We also normalized the data so that we could compare the regular data with the normalized data. 
+We also normalized the data with the z-score so that we could compare the regular data with the normalized data. 
 
 *(ref: exercise 15)*
 
