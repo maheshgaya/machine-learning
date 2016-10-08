@@ -1,5 +1,5 @@
 # Machine Learning
-This repository contains all my projects for my machine learning class at Drake University, Fall 2016.
+This repository contains all my projects for my machine learning class at Drake University, Fall 2016. Each project has its own explanation of the way I did things.
 
 ## Running the Source Code
 1. Clone the repository
@@ -15,8 +15,7 @@ This repository contains all my projects for my machine learning class at Drake 
 **(Note: Some of the cells can take longer to execute because of the number of 
 loops that they go through)**
 
-## Details
-Each project has its own explanation of the way I did things.
+## Projects
 
 | Projects        | Description           
 | ------------- |:-------------:
