@@ -19,7 +19,9 @@ loops that they go through)**
 
 | Projects        | Description           
 | ------------- |:-------------:
-| [Project #1](https://github.com/maheshgaya/machine-learning/tree/master/GayaProject1)     | This project is about the k Nearest Neighbor algorithm. 
+| [Project #1](https://github.com/maheshgaya/machine-learning/tree/master/GayaProject1)     | This project is about the k
+Nearest Neighbor algorithm. |
+| [Project #2] (https://github.com/maheshgaya/machine-learning/tree/master/project2) | This project is about Decision Trees|
    
 
 
